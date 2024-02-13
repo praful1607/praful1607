@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praful1607
-- 👀 I’m interested in Blockchain Technology
-- 🌱 I’m currently learning HyperLedger Fabric for developing decentralized applications.
-- 💞️ I’m looking to collaborate on projects on blockchain technology
+- 👀 I am responsible for developing and maintaining web applications using a variety of technologies such as .NET Framework, ReactJS, Git, MySQL Server, and PostgreSQL. 
+- 🌱 On top of this, I am responsible for writing code, debugging problems, and ensuring that each application I develop is efficient and secure. 
+- 💞️ I also collaborate with other software engineers on the team to ensure our applications meet user needs and expectations.
 - 📫 You can reach me out through my mail: prafulreshiya2858@gmail.com
   
 
